@@ -73,4 +73,4 @@ This blueprint can then serve as a base for developers to fork and integrate int
 
 ## Conclusion
 
-This blueprint provides a foundational structure for a chat system that can be customized and scaled according to specific application needs. Each component and consideration can be further detailed during the development phase, based on the technology stack and infrastructure choices. For implementation specifics and best practices, you might want to refer to existing frameworks and libraries that cater to real-time communication, as well as follow the guidelines provided in reputable system design resources and documentation like the one you've mentioned.
+This blueprint provides a foundational structure for a chat system that can be customized and scaled according to specific application needs. Each component and consideration can be further detailed during the development phase, based on the technology stack and infrastructure choices.
