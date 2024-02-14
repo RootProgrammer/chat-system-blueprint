@@ -1,6 +1,7 @@
 # Project Plan
 
-This approach will include planning, architecture design, technology selection, and preparation for future integration.
+This approach will include planning, architecture design, technology selection, and preparation for
+future integration.
 
 ## Step 1: Requirement Analysis
 
@@ -117,4 +118,8 @@ This approach will include planning, architecture design, technology selection, 
 
 ## Conclusion
 
-This plan outlines a comprehensive approach to designing, implementing, and maintaining a chat system. Each step ensures thorough consideration of key aspects like system architecture, technology selection, security, and scalability. The detailed steps provide a structured path from initial planning to deployment and beyond, ensuring the system is robust, efficient, and adaptable for future integration into various applications.
+This plan outlines a comprehensive approach to designing, implementing, and maintaining a chat
+system. Each step ensures thorough consideration of key aspects like system architecture, technology
+selection, security, and scalability. The detailed steps provide a structured path from initial
+planning to deployment and beyond, ensuring the system is robust, efficient, and adaptable for
+future integration into various applications.
