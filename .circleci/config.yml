@@ -26,8 +26,11 @@ jobs:
           name: deploy
           command: '#e.g. ./deploy.sh'
       - run:
-          name: found github actions config
-          command: ':'
+          name: Trigger Jira Webhook
+          command: curl -X POST -H "Content-Type: application/json" -d '{"key":"value"}' $JIRA_WEB_TRIGGER_URL
+      # - run:
+      #     name: found github actions config
+      #     command: ':'
 workflows:
   build-and-test:
     jobs:
